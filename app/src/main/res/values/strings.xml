@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Business Card Kotlin</string>
+    <string name="label_business_cards">Cartão de Visita</string>
+    <string name="addcard">Adicionar Cartão</string>
+    <string name="close">Fechar</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_name">Nome</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_company">Empresa</string>
+    <string name="label_color">Cor</string>
+    <string name="label_button_confirm">Confirmar</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso!</string>
+    <string name="label_share">Cartão cadastrado com sucesso!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
